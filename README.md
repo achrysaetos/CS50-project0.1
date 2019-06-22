@@ -1,2 +1,4 @@
 # project0.1
-same stuff using flask
+using python and flask
+
+run "flask run" in terminal
