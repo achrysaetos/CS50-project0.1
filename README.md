@@ -1,4 +1,4 @@
 # project0.1
-using python and flask
+Basic static web page, using flask and python.
 
-run "flask run" in terminal
+**To start:** run `flask run` in terminal
